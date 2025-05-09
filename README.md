@@ -4,6 +4,9 @@ A simple REST API built with Node.js, Express.js, and MongoDB for a basic activi
 
 ---
 
+## Live On
+https://activity-booking-api-56gy.onrender.com
+
 ## 📦 Features
 
 - ✅ User Registration with hashed passwords (bcrypt)
