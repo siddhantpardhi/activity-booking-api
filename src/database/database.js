@@ -50,8 +50,6 @@ class DatabaseConnection {
     
             const connectionInstance = await mongoose.connect(`${process.env.MONGODB_URI}/${DB_NAME}`, connectionOptions)
             this.retryCount = 0 // reset retry count on success
-            console.log("🚀 ~ DatabaseConnection ~ connect ~ process.env.MONGODB_URI:", process.env.MONGODB_URI)
-            console.log("🚀 ~ DatabaseConnection ~ connect ~ DB_NAME:", DB_NAME)
 
             return connectionInstance
         } catch (error) {
