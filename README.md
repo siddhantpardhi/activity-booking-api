@@ -8,7 +8,10 @@ A simple REST API built with Node.js, Express.js, and MongoDB for a basic activi
 https://activity-booking-api-56gy.onrender.com
 
 ## Postman Collection
+
+```
 https://.postman.co/workspace/myfirstpost~f32894db-3de4-4edc-bea3-8bde172e1672/collection/32266369-4ffb5c39-64c6-433f-9203-2209a403c224?action=share&creator=32266369&active-environment=32266369-9e74b162-fb3c-4fd0-8bf5-bb93dfd7268d
+```
 
 ## 📦 Features
 
